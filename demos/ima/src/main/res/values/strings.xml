@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+  <string name="application_name">Exo IMA Demo</string>
+
+<!--   <string name="content_url"><![CDATA[http://rmcdn.2mdn.net/MotifFiles/html/1248596/android_1330378998288.mp4]]></string> -->
+  <string name = "content_url"><![CDATA[ https://r4---sn-n3cgv5qc5oq-bh2lz.googlevideo.com/videoplayback?expire=1527501092&pl=21&mime=video%2Fmp4&initcwndbps=675000&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mv=m&mt=1527479444&itag=22&ms=au%2Crdu&ei=xHwLW6KNH5qqgAPonaWgBw&mn=sn-n3cgv5qc5oq-bh2lz%2Csn-ogul7n7z&mm=31%2C29&c=WEB&id=o-AK79KXHWL4D07jFAbD9oapFdo9P9fun6deuTVRt575xR&requiressl=yes&ipbits=0&signature=BBE6D14FA672AD77BCFD7E6D1BDE2C1D5BF82061.A293CB02F65C985B38735E93CC886DF3D653CA7E&pcm2cms=yes&fvip=4&key=yt6&dur=3795.998&source=youtube&ratebypass=yes&ip=211.179.4.17&lmt=1525492943775976]]></string>
+
+  <string name="ad_tag_url"><![CDATA[https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear&correlator=]]></string>
+
+</resources>
